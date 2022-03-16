@@ -1,6 +1,7 @@
 ---
 title: devares
-tagline: test
+title: devAres
+description: develop and resolve
 ---
 ## devares
 

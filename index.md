@@ -6,4 +6,4 @@ locale: de-DE
 ---
 ## devAres
 
-Inhalt folgt.
+[Sergey Voskoboynikov](https://github.com/SergeyVoskoboynikov) und [Martin Strecker](https://github.com/Mastr11)

@@ -4,8 +4,6 @@ title: devares
 description: develop and resolve
 locale: de-DE
 ---
-# devares
-
 ## Impressum
 
 ### Angaben gemäß § 5 TMG:

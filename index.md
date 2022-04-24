@@ -1,7 +1,7 @@
 ---
 locale: de-DE
 ---
-<img src="assets/images/devares_path.svg" height="50"/>
+<img src="assets/images/devares_path.svg" width="200"/>
 
 ## Impressum
 ### Angaben gemäß § 5 TMG

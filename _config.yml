@@ -1,5 +1,6 @@
 header:
   image: /assets/images/devares.png
+layout: default
 name: devares
 title: devares
 remote_theme: "mmistakes/minimal-mistakes"

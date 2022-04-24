@@ -18,6 +18,6 @@ Cynthia Strecker (Geschäftsführerin)
 ### Kontakt
 info(a)devares.de
 
-Handelsegistereintrag:
+### Handelsegistereintrag
 Eintragung im Registergericht: Amtsgericht München<br/>
 Registernummer: HRB 275287

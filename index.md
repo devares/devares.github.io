@@ -6,12 +6,12 @@ locale: de-DE
 ---
 ## Impressum
 
-### Angaben gemäß § 5 TMG:
+### Angaben gemäß § 5 TMG
 devares GmbH<br/>
 Wendelsteinstrasse 6<br/>
 D-85614 Kirchseeon
 
-#### Vertreten durch:
+#### Vertreten durch
 
 Cynthia Strecker (Geschäftsführerin)
 

@@ -1,11 +1,7 @@
 ---
-name: devares
-title: devares
-description: develop and resolve
 locale: de-DE
 ---
-
-<img src="assets/images/devares_path.svg" height="150"/>
+<img src="assets/images/devares_path.svg" height="50"/>
 
 ## Impressum
 ### Angaben gemäß § 5 TMG

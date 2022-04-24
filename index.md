@@ -1,9 +1,25 @@
 ---
-name: devAres
-title: devAres
+name: devares
+title: devares
 description: develop and resolve
 locale: de-DE
 ---
-## devAres
+# devares
 
-[Sergey Voskoboynikov](https://github.com/SergeyVoskoboynikov) und [Martin Strecker](https://github.com/Mastr11)
+## Impressum
+
+### Angaben gemäß § 5 TMG:
+devares GmbH
+Wendelsteinstrasse 6
+D-85614 Kirchseeon
+
+#### Vertreten durch:
+
+Cynthia Strecker (Geschäftsführerin)
+
+### Kontakt
+info(a)devares.de
+
+Handelsegistereintrag:
+Eintragung im Registergericht: Amtsgericht München
+Registernummer: HRB 275287

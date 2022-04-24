@@ -2,21 +2,18 @@
 name: devares
 title: devares
 description: develop and resolve
-layout: splash
 locale: de-DE
 ---
 
-![Screenshot](assets/images/devares_path.svg)
+<img src="assets/images/devares_path.svg" height="150"/>
 
 ## Impressum
-
 ### Angaben gemäß § 5 TMG
 devares GmbH<br/>
 Wendelsteinstrasse 6<br/>
 D-85614 Kirchseeon
 
 #### Vertreten durch
-
 Cynthia Strecker (Geschäftsführerin)
 
 ### Kontakt

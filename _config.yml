@@ -1,6 +1,6 @@
 header:
   image: /assets/images/devares.png
-layout: default
+layout: splash
 name: devares
 title: devares
 remote_theme: "mmistakes/minimal-mistakes"

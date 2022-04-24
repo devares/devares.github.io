@@ -2,6 +2,7 @@
 name: devares
 title: devares
 description: develop and resolve
+layout: splash
 locale: de-DE
 ---
 ## Impressum

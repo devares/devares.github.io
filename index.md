@@ -5,6 +5,9 @@ description: develop and resolve
 layout: splash
 locale: de-DE
 ---
+
+![Screenshot](assets/images/devares_path.svg)
+
 ## Impressum
 
 ### Angaben gemäß § 5 TMG

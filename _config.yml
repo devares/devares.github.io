@@ -1,3 +1,5 @@
+header:
+  image: /assets/images/devares_path.svg
 name: devares
 title: devares
 remote_theme: "mmistakes/minimal-mistakes"

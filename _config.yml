@@ -1,4 +1,4 @@
-layout: splash
+layout: single
 header:
   image: /assets/images/devares.png
 name: devares

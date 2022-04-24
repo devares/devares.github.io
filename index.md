@@ -2,15 +2,16 @@
 locale: de-DE
 ---
 <img src="assets/images/devares_path.svg" width="300"/>
+<img src="assets/images/devares_claim_path.svg" width="50"/>
 
-#### Impressum (Angaben gemäß § 5 TMG)
+#### _Impressum (Angaben gemäß § 5 TMG)_
 devares GmbH<br/>
 Wendelsteinstrasse 6<br/>
 D-85614 Kirchseeon<br/>
 info(a)devares.de
 
-Sitz (registered seat)<br/>
+_Sitz (registered seat)_<br/>
 Amtsgericht München - HRA 275287
 
-Geschäftsführung (management board)<br/>
+_Geschäftsführung (management board)_<br/>
 Cynthia Strecker

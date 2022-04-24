@@ -1,8 +1,7 @@
 ---
 locale: de-DE
 ---
-<img src="assets/images/devares_path.svg" width="300"/><br/>
-<img src="assets/images/devares_claim_path.svg" width="100"/>
+<img src="assets/images/devares_path.svg" width="300"/>
 
 #### Impressum (Angaben gemäß § 5 TMG)
 devares GmbH<br/>

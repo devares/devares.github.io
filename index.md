@@ -1,20 +1,16 @@
 ---
 locale: de-DE
 ---
-<img src="assets/images/devares_path.svg" width="200"/>
-
-## Impressum
-### Angaben gemäß § 5 TMG
+<img src="assets/images/devares_path.svg" height="100"/>
+#### Impressum
+#### Angaben gemäß § 5 TMG
 devares GmbH<br/>
 Wendelsteinstrasse 6<br/>
 D-85614 Kirchseeon
-
 #### Vertreten durch
 Cynthia Strecker (Geschäftsführerin)
-
-### Kontakt
+#### Kontakt
 info(a)devares.de
-
-### Handelsregistereintrag
+#### Handelsregistereintrag
 Eintragung im Registergericht: Amtsgericht München<br/>
 Registernummer: HRB 275287

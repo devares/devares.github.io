@@ -1,10 +1,10 @@
 ---
 locale: de-DE
 ---
-<img src="assets/images/devares_path.svg" width="300"/>
-<img src="assets/images/devares_claim_path.svg" width="50"/>
+<img src="assets/images/devares_path.svg" width="300"/><br/>
+<img src="assets/images/devares_claim_path.svg" width="100"/>
 
-#### _Impressum (Angaben gemäß § 5 TMG)_
+#### Impressum (Angaben gemäß § 5 TMG)
 devares GmbH<br/>
 Wendelsteinstrasse 6<br/>
 D-85614 Kirchseeon<br/>

@@ -10,7 +10,7 @@ D-85614 Kirchseeon<br/>
 info(a)devares.de
 
 _Sitz (registered seat)_<br/>
-Amtsgericht München - HRA 275287
+Amtsgericht München - HRB 275287
 
 _Geschäftsführung (management board)_<br/>
 Cynthia Strecker

@@ -14,3 +14,6 @@ Kirchseeon - Amtsgericht München - HRB 275287
 
 _Geschäftsführung (management board)_<br/>
 Cynthia Strecker
+
+_Umsatzsteuer-ID (VAT ID)_<br/>
+DE352511374
